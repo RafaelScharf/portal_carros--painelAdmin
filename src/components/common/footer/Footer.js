@@ -1,3 +1,3 @@
 import React from "react";
 
-export default props => <footer className="Footer">Footer</footer>;
+export default props => <footer className="footer">Footer</footer>;

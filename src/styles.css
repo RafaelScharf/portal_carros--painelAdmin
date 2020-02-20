@@ -32,7 +32,7 @@ aside.logo {
 }
 
 header.header {
-  grid-area: logo;
+  grid-area: header;
 }
 
 aside.menu-area {

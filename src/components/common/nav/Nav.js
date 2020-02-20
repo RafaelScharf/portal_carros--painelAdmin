@@ -1,3 +1,3 @@
 import React from "react";
 
-export default props => <nav className="Nav">Nav</nav>;
+export default props => <aside className="menu-area">Nav</aside>;

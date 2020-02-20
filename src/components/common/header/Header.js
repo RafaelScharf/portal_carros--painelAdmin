@@ -1,3 +1,3 @@
 import React from "react";
 
-export default props => <header className="Header">Header</header>;
+export default props => <header className="header">Header</header>;
