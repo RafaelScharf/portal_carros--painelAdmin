@@ -1,4 +1,6 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "font-awesome/css/font-awesome.min.css";
 import "./styles.css";
 import Logo from "./components/common/logo/Logo";
 import Nav from "./components/common/nav/Nav";
@@ -10,7 +12,7 @@ export default function App() {
     <div className="app">
       <Logo />
       <Nav />
-      <Main />
+      <Main icon="home" title="Inicio" subtitle="Descrição da pagina aqui" />
       <Footer />
     </div>
   );
