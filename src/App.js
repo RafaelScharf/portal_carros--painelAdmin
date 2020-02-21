@@ -4,7 +4,7 @@ import "font-awesome/css/font-awesome.min.css";
 import "./styles.css";
 import Logo from "./components/common/logo/Logo";
 import Nav from "./components/common/nav/Nav";
-import Main from "./components/common/main/Main";
+import Home from "./components/pages/home/Home";
 import Footer from "./components/common/footer/Footer";
 
 export default function App() {
@@ -12,7 +12,7 @@ export default function App() {
     <div className="app">
       <Logo />
       <Nav />
-      <Main icon="home" title="Inicio" subtitle="Descrição da pagina aqui" />
+      <Home />
       <Footer />
     </div>
   );

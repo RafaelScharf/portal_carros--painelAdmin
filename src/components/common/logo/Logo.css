@@ -10,3 +10,7 @@ aside .logo img {
   width: var(--logo-width);
   height: var(--logo-heigth);
 }
+
+img {
+  opacity: 20%;
+}

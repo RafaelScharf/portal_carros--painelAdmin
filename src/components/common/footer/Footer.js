@@ -1,3 +1,5 @@
 import React from "react";
 
-export default props => <footer className="footer">Footer</footer>;
+export default props => (
+  <footer className="footer">Desenvolvido por rkScharf</footer>
+);

@@ -1,7 +1,7 @@
 :root {
   --bg-dark: #1a2f3a;
   --logo-width: 100px;
-  --logo-heigth: auto;
+  --logo-heigth: 100px;
   --header-heigth: 100px;
   --aside-width: 225px;
   --footer-heigth: 40px;
