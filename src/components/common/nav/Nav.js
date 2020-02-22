@@ -4,7 +4,7 @@ import "./nav.css";
 export default props => (
   <aside className="menu-area">
     <nav className="menu">
-      <a href="#">
+      <a href="/">
         <i className="fa fa-home" /> Home
       </a>
       <a href="/user/register/">
