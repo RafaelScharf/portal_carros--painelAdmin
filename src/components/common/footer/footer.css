@@ -1,8 +1,8 @@
 footer.footer {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: flex-center;
   padding: 0 25px;
-  background-color: #fff;
+  background-color: ;
   box-shadow: var(--shadow);
 }

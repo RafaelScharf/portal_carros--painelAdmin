@@ -7,7 +7,7 @@ export default props => (
       <a href="#">
         <i className="fa fa-home" /> Home
       </a>
-      <a href="#">
+      <a href="/user/register/">
         <i className="fa fa-user" /> User
       </a>
     </nav>
